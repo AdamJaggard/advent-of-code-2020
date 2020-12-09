@@ -1,0 +1,20 @@
+{
+  "name": "aoc-2020",
+  "version": "1.0.0",
+  "description": "These are my solutions to the daily problems from Advent Of Code 2020 (until christmas gets in the way!)",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamJaggard/advent-of-code-2020.git"
+  },
+  "author": "Adam Jaggard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamJaggard/advent-of-code-2020/issues"
+  },
+  "homepage": "https://github.com/AdamJaggard/advent-of-code-2020#readme",
+  "type": "module"
+}
